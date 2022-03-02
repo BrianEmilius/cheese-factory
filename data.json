@@ -1,0 +1,25 @@
+{
+    "results": [
+        {
+            "sku": "60332",
+            "name": "Feta",
+            "description": "Yummy AF",
+            "price": "DKK 200.00"
+        },{
+            "sku": "60333",
+            "name": "Gouda",
+            "description": "Yummy AF",
+            "price": "DKK 200.00"
+        },{
+            "sku": "60334",
+            "name": "Gorgonzola",
+            "description": "Yummy AF",
+            "price": "DKK 200.00"
+        },{
+            "sku": "60335",
+            "name": "Brie",
+            "description": "Yummy AF",
+            "price": "DKK 200.00"
+        }
+    ]
+}
